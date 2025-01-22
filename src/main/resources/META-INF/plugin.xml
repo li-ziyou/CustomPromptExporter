@@ -14,7 +14,8 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Export AI Assistant prompt library to a location specified by the user
+    Export AI Assistant prompt library to a location specified by the user.
+    <img src="https://i.postimg.cc/TY2VxHr5/Screen-Recording-2025-01-22-at-23-1.gif" alt="How to use">
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.
