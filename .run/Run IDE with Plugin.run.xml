@@ -1,0 +1,27 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Plugin in Sandbox" type="GradleRunConfiguration" factoryName="Gradle">
+    <ExternalSystemSettings>
+      <option name="executionName" value="Run Plugin in Sandbox" />
+      <option name="externalProjectPath" value="$PROJECT_DIR$" />
+      <option name="externalSystemIdString" value="GRADLE" /> <!-- Specify the system ID here -->
+      <option name="taskDescriptions">
+        <list>
+          <option value="Run your plugin in IntelliJ IDEA sandbox" />
+        </list>
+      </option>
+      <option name="taskNames">
+        <list>
+          <option value="runIde" />
+        </list>
+      </option>
+      <option name="vmOptions" value="-Xmx2G -Didea.is.internal=true" />
+      <option name="scriptParameters" value="" />
+      <option name="environmentVariables">
+        <envs />
+      </option>
+    </ExternalSystemSettings>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
