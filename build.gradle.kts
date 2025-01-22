@@ -33,6 +33,9 @@ tasks {
     patchPluginXml {
         sinceBuild.set("241")
         untilBuild.set("243.*")
+        changeNotes = """
+            Initial version of the Export AI Assistant Prompt plugin.
+        """
     }
 
     signPlugin {
